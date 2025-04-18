@@ -7,10 +7,7 @@
 
 A professional-grade React starter template built during **GDGoC Bahria University's WEBCAMP+ Full Stack MERN Bootcamp**. This project showcases modern frontend development practices learned during the intensive training program.
 
-## 📸 Preview
 
-![Project Screenshot](https://via.placeholder.com/800x500.png?text=React+Vite+Starter) 
-*(Replace with actual screenshot after uploading)*
 
 ## 🚀 Features
 
